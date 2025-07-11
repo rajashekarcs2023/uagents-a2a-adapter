@@ -71,6 +71,10 @@ The adapter uses **two ports** automatically:
 
 **Key Point**: The A2A Server (port 10000) is what A2A clients connect to. The Bridge uAgent runs internally and handles all Agentverse communication automatically.
 
+<img width="896" height="882" alt="Screenshot 2025-07-08 at 10 54 16 PM" src="https://github.com/user-attachments/assets/7ebff776-b352-4259-9c03-47a0522dd2ce" />
+
+
+
 ### What You Get
 
 - **🌐 HTTP Server**: `http://localhost:10000` with A2A JSON-RPC 2.0 endpoints
@@ -652,9 +656,9 @@ pip install "uagents-adapter[a2a-inbound]"
 
 ## 📚 Documentation Links
 
-- **Main uAgents Documentation**: [https://docs.fetch.ai/uAgents](https://docs.fetch.ai/uAgents)
+- **Main uAgents Documentation**: [https://docs.fetch.ai/uAgents](https://innovationlab.fetch.ai/resources/docs/intro)
 - **Agentverse Platform**: [https://agentverse.ai](https://agentverse.ai)
-- **A2A Protocol Specification**: [A2A SDK Documentation](https://github.com/fetchai/a2a-sdk)
+- **A2A Protocol Specification**: [A2A SDK Documentation](https://a2aprotocol.ai/docs/guide/understanding-a2a-protocol)
 - **uAgents Adapter Repository**: [https://github.com/fetchai/uAgents](https://github.com/fetchai/uAgents)
 
 ## 🤝 Support
