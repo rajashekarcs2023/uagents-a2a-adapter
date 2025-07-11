@@ -71,6 +71,10 @@ The adapter uses **two ports** automatically:
 
 **Key Point**: The A2A Server (port 10000) is what A2A clients connect to. The Bridge uAgent runs internally and handles all Agentverse communication automatically.
 
+<img width="896" height="882" alt="Screenshot 2025-07-08 at 10 54 16 PM" src="https://github.com/user-attachments/assets/7ebff776-b352-4259-9c03-47a0522dd2ce" />
+
+
+
 ### What You Get
 
 - **🌐 HTTP Server**: `http://localhost:10000` with A2A JSON-RPC 2.0 endpoints
