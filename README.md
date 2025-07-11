@@ -656,9 +656,9 @@ pip install "uagents-adapter[a2a-inbound]"
 
 ## 📚 Documentation Links
 
-- **Main uAgents Documentation**: [https://docs.fetch.ai/uAgents](https://docs.fetch.ai/uAgents)
+- **Main uAgents Documentation**: [https://docs.fetch.ai/uAgents](https://innovationlab.fetch.ai/resources/docs/intro)
 - **Agentverse Platform**: [https://agentverse.ai](https://agentverse.ai)
-- **A2A Protocol Specification**: [A2A SDK Documentation](https://github.com/fetchai/a2a-sdk)
+- **A2A Protocol Specification**: [A2A SDK Documentation](https://a2aprotocol.ai/docs/guide/understanding-a2a-protocol)
 - **uAgents Adapter Repository**: [https://github.com/fetchai/uAgents](https://github.com/fetchai/uAgents)
 
 ## 🤝 Support
